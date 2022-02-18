@@ -1,0 +1,4 @@
+c:\users\hp\documents\visual studio 2010\Projects\shaurya\shaurya\bin\shaurya.dll
+c:\users\hp\documents\visual studio 2010\Projects\shaurya\shaurya\bin\shaurya.pdb
+c:\users\hp\documents\visual studio 2010\Projects\shaurya\shaurya\obj\Debug\shaurya.dll
+c:\users\hp\documents\visual studio 2010\Projects\shaurya\shaurya\obj\Debug\shaurya.pdb
